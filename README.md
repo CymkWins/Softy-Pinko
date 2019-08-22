@@ -1,3 +1,4 @@
-# learning
+# Softy Pinko
 
-This repo is specifically for learning purposes and does not contain any of my projects.
+This is my first learning project, utilizing mostly Bootstrap v4.3.1 but I might end up brushing it up with Javascript
+if I seem comfortable enough with Bootstrap already.
