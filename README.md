@@ -1,5 +1,7 @@
 # Softy Pinko Progress
 
+In here I just keep tabs on myself (don't really fancy the projects tab) and hopefully motivate through example!
+
 ## Html
 
 22/08/19
