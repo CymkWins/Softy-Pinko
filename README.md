@@ -15,11 +15,3 @@
 
 23/08/19
   - *Same as Html.*
-  
-## Javascript
-
-22/08/19
-  - *Probably not gonna implement just yet, should focus only on mastering bootstrap and transition to javascript after.*
-  
-23/08/19
-  - *Same as Html.*
